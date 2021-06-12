@@ -6,6 +6,7 @@
 
 ## 使用教學 <a id="tutorial"></a>
 
+* [進入系統](tutorial/jin-ru-xi-tong.md)
 * [登入](tutorial/login.md)
 
 ## 編譯手冊 <a id="docs"></a>
