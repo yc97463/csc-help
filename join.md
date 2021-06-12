@@ -14,13 +14,25 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 不需要額外安裝擴充程式，不受限特定瀏覽器，不因為操作複雜而放棄了學生到課率。  
 老師只需要「登入，產生連結，按下分享」，學生就能在老師呼叫時快速簽到。
 
+## 我們是誰
+
 我們是一群高中生，
 
 ## 搶先體驗
 
 我們計劃於 6/15 上線本平台，只要填寫下列表單，就能接收到平台開放的第一手資訊以及教學手冊！
 
+{% hint style="success" %}
 手刀預約：[https://forms.gle/Nk3Z2xXsAXHZbUNX9](https://forms.gle/Nk3Z2xXsAXHZbUNX9)
+{% endhint %}
+
+## 技術支援
+
+{% page-ref page="qa.md" %}
+
+
+
+
 
 
 
