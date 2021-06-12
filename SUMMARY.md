@@ -4,13 +4,13 @@
 * [搶先預約](join.md)
 * [常見問答](qa.md)
 
-## 使用教學 <a id="docs"></a>
+## 使用教學 <a id="tutorial"></a>
 
-* [登入](docs/login.md)
+* [登入](tutorial/login.md)
 
-## 編譯手冊 <a id="dev"></a>
+## 編譯手冊 <a id="docs"></a>
 
-* [API](dev/api.md)
+* [API](docs/api.md)
 
 ---
 
