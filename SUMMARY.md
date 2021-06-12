@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [首頁](README.md)
 * [搶先預約](join.md)
 * [常見問答](qa.md)
 
