@@ -14,7 +14,7 @@
 
 我們計劃於 6/15 上線本平台，只要填寫下列表單，就能接收到平台開放的第一手資訊以及教學手冊！
 
-手刀預約：[https://forms.office.com/r/uNZSHHP9TK](https://forms.office.com/r/uNZSHHP9TK)
+手刀預約：[https://forms.gle/Nk3Z2xXsAXHZbUNX9](https://forms.gle/Nk3Z2xXsAXHZbUNX9)
 
 
 
