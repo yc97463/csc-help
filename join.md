@@ -47,6 +47,7 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 ## 技術支援
 
 {% page-ref page="qa.md" %}
+{% page-ref page="dev-team.md" %}
 
 
 
