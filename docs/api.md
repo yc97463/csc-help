@@ -1,5 +1,9 @@
 # API
 
+> 此區為開發人員資訊，若您為一般使用者，可不須理會
+## 此頁面建立中...
+
+<!--
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
 Get Cakes
@@ -58,5 +62,4 @@ Could not find a cake matching this query.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-
-
+-->
