@@ -18,6 +18,7 @@
 ---
 
 * [開發團隊](dev-team.md)
+* [更新紀錄](logs.md)
 * [隱私權政策](privacy.md)
 * [服務條款](tos.md)
 
