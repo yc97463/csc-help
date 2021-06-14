@@ -4,3 +4,11 @@
 此頁面建立中
 {% endhint %}
 
+## 所有步驟
+
+{% page-ref page="login.md" %}
+
+{% page-ref page="generate.md" %}
+
+
+
