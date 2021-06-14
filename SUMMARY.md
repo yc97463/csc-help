@@ -6,10 +6,10 @@
 
 ## 使用教學 <a id="tutorial"></a>
 
-* [老師登入系統](tutorial/login.md)
-* [老師產生簽到連結](tutorial/generate.md)
+* [教師登入系統](tutorial/login.md)
+* [教師產生簽到連結](tutorial/generate.md)
 * [學生登入簽到](tutorial/checkin.md)
-* [老師查看出缺席紀錄](tutorial/absence.md)
+* [教師查看出缺席紀錄](tutorial/absence.md)
 
 ## 編譯手冊 <a id="docs"></a>
 
