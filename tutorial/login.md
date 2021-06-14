@@ -4,5 +4,9 @@
 此頁面建立中
 {% endhint %}
 
+## 下一步
+
+{% page-ref page="generate.md" %}
+
 
 
