@@ -4,5 +4,9 @@
 此頁面建立中
 {% endhint %}
 
+## 相關頁面
+
+{% page-ref page="privacy.md" %}
+
 
 
