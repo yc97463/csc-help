@@ -6,8 +6,8 @@
 
 ## 使用教學 <a id="tutorial"></a>
 
-* [進入系統](tutorial/entry.md)
-* [登入](tutorial/login.md)
+* [登入系統](tutorial/login.md)
+* [建立](tutorial/login3.md)
 
 ## 編譯手冊 <a id="docs"></a>
 
