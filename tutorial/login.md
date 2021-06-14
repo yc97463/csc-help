@@ -2,7 +2,7 @@
 
 ## 一、進入 CSC 簽到系統
 
-進入 [CSC簽到系統](https://cscin.tk)（https://cscin.tk）後，請選擇持有帳號的學校或單位，並進行登入。
+進入 [CSC簽到系統](https://cscin.tk) (https://cscin.tk) 後，請選擇持有帳號的學校或單位，並進行登入。
 
 ![](https://i.imgur.com/1RNOdBN.png)
 
