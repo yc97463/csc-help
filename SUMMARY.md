@@ -15,13 +15,13 @@
 
 * [API](docs/api.md)
 
----
-
-* [隱私權政策](privacy.md)
-* [服務條款](tos.md)
-
 ## 開發資訊 <a id="dev"></a>
 
 * [開發團隊](dev/team.md)
 * [更新紀錄](dev/logs.md)
+
+---
+
+* [隱私權政策](privacy.md)
+* [服務條款](tos.md)
 
