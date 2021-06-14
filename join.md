@@ -39,7 +39,7 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 2. 開啟管理區域
 3. 即可看到各 Classroom 在各個時段的出缺席狀況
 
-## 搶先體驗頁面
+## 搶先體驗
 
 我們計劃於 6/15 上線本平台，只要填寫下列表單，就能接收到平台開放的第一手資訊以及教學手冊！
 
@@ -47,7 +47,7 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 手刀預約：[https://forms.gle/Nk3Z2xXsAXHZbUNX9](https://forms.gle/Nk3Z2xXsAXHZbUNX9)
 {% endhint %}
 
-## 相關支援
+## 相關頁面
 
 {% page-ref page="qa.md" %}
 
