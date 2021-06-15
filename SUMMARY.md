@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首頁](README.md)
-* [搶先預約](join.md)
+* [搶先體驗](join.md)
 * [常見問答](qa.md)
 
 ## 使用教學 <a id="tutorial"></a>
