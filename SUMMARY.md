@@ -17,7 +17,7 @@
 
 ## 開發資訊 <a id="dev"></a>
 
-* [開發團隊](dev/team.md)
+* [關於CSC](dev/about.md)
 * [更新紀錄](dev/logs.md)
 * [聯絡我們](dev/contact.md)
 
