@@ -49,9 +49,7 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 手刀預約：[https://forms.gle/Nk3Z2xXsAXHZbUNX9](https://forms.gle/Nk3Z2xXsAXHZbUNX9)
 {% endhint %}
 
-### 我是學生👨‍🎓
-
-`僅限三民高中`
+### 我是學生👨‍🎓 `僅限三民高中`
 
 如果有興趣參與「以學生角色進行」內測的同學（老師也可以），請使用學校帳號直接加入這個 Classroom。
 
