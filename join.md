@@ -41,7 +41,7 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 
 ## 搶先體驗
 
-### 我是老師🙌
+### 我是老師🙌 `適用所有學校`
 
 我們計劃於 6/15 上線本平台，只要填寫下列表單，就能接收到平台開放的第一手資訊以及教學手冊！
 
@@ -59,6 +59,10 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 {% hint style="success" %}
 * 加入 Classroom：[https://cscin.tk/smbeta](https://cscin.tk/smbeta)
 {% endhint %}
+
+### 我的
+
+貴校並非鳳中、三民學生
 
 {% page-ref page="tutorial/checkin.md" %}
 
