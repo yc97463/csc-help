@@ -60,10 +60,6 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 * 加入 Classroom：[https://cscin.tk/smbeta](https://cscin.tk/smbeta)
 {% endhint %}
 
-### 我的
-
-貴校並非鳳中、三民學生
-
 {% page-ref page="tutorial/checkin.md" %}
 
 ## 相關頁面
