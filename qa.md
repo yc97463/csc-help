@@ -14,6 +14,10 @@
 - cscin.tk （短網址服務）
 - csc.deershark.com （CSC 服務主站）
 
+### 一次登入逾時期限為何？
+
+一次登入階段的維持時間最多 1 小時，也就是說大約一堂課的時間，就必須要重新使用 Google 登入本系統。
+
 ## 相關頁面
 
 {% page-ref page="join.md" %}
