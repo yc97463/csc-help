@@ -41,11 +41,24 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 
 ## 搶先體驗
 
+### 我是老師🙌
+
 我們計劃於 6/15 上線本平台，只要填寫下列表單，就能接收到平台開放的第一手資訊以及教學手冊！
 
 {% hint style="success" %}
 手刀預約：[https://forms.gle/Nk3Z2xXsAXHZbUNX9](https://forms.gle/Nk3Z2xXsAXHZbUNX9)
 {% endhint %}
+
+### 我是學生👨‍🎓
+
+`僅限三民高中`
+如果有興趣參與「以學生角色進行」內測的同學（老師也可以），請使用學校帳號直接加入這個 Classroom。
+
+{% hint style="success" %}
+- 加入 Classroom：[https://cscin.tk/smbeta](https://cscin.tk/smbeta)
+{% endhint %}
+
+{% page-ref page="tutorial/checkin" %}
 
 ## 相關頁面
 
