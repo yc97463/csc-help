@@ -59,7 +59,7 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 相關體驗操作請詳閱下方的「學生登入簽到」使用教學。
 
 {% hint style="success" %}
-* 加入 Classroom：[https://cscin.tk/smbeta](https://cscin.tk/smbeta)
+加入 Classroom：[https://cscin.tk/smbeta](https://cscin.tk/smbeta)
 {% endhint %}
 
 {% page-ref page="tutorial/checkin.md" %}
