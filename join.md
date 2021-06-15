@@ -53,7 +53,8 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 
 如果有興趣參與「以學生角色進行」內測的同學（老師也可以），請使用學校帳號直接加入這個 Classroom。
 
-加入 Classroom 的邀請連結如下，相關體驗操作請下方的詳閱「學生登入簽到」使用教學。
+加入 Classroom 的邀請連結如下。  
+相關體驗操作請詳閱下方的「學生登入簽到」使用教學。
 
 {% hint style="success" %}
 * 加入 Classroom：[https://cscin.tk/smbeta](https://cscin.tk/smbeta)
