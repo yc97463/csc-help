@@ -8,7 +8,7 @@
 
 ## 二、建立簽到連結
 
-點選功能選單的「建立簽到連結」，進行下一步驟。
+點選功能選單的「**建立簽到連結**」，進行下一步驟。
 
 ![](https://i.imgur.com/HbX1kb0.png)
 
@@ -26,7 +26,7 @@
 
 ## 五、發布簽到連結到 Google Classroom
 
-最後一步，只要按下「分享到 Classroom」，就能一鍵分享簽到連結到 Classroom 公告。
+最後一步，只要按下「**分享到 Classroom**」，就能一鍵分享簽到連結到 Classroom 公告。
 
 ![](https://i.imgur.com/LSEwIwf.png)
 
