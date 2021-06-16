@@ -4,16 +4,13 @@
 
 進入 [CSC簽到系統](https://cscin.tk) \([https://cscin.tk](https://cscin.tk)\) 後，請選擇已授權的學校或單位帳號，並進行登入。
 
-> 若您所屬不在列表上，請選點選最下方的「Google 個人或其他帳戶」。
+> 若您所屬學校或單位不在列表上，請選點選最下方的「Google 個人或其他帳戶」。
 
 ![](https://i.imgur.com/6Vq2kBr.png)
 
 ## 二、登入學校 Google 帳號
 
 此時請登入您的「學校 Google 帳號」，例如 youu@ychs.kh.edu.tw。
-
-> 注意，老師的帳號必須和學生為同一網域。  
-> 例如老師的帳號為：`youu@ychs.kh.edu.tw`，但同學的帳號也必須為：`xxx@ychs.kh.edu.tw`。
 
 第一次登入時，您會看到如下圖的授權畫面，接著按下畫面最下方的「**允許**」。
 
