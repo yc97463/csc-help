@@ -2,7 +2,7 @@
 description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害，聽說甚至還能夠幫助老師的點名作業。
 ---
 
-# 搶先體驗
+# 正式開放
 
 ## 簡介
 
@@ -41,26 +41,19 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 2. 開啟管理區域
 3. 即可看到各 Classroom 在各個時段的出缺席狀況
 
-## 搶先體驗
+## 正式開放
 
-### 我是老師🙌 `適用所有學校`
+### 我是老師👨‍🏫👩‍🏫
 
-我們計劃於 6/15 上線本平台，只要填寫下列表單，就能接收到平台開放的第一手資訊以及教學手冊！
+我們在 6/15 上線本平台，登入 CSC簽到系統，就可以開始使用！  
+相關操作請詳閱下方連結的「教師系列」使用教學。
 
-{% hint style="success" %}
-手刀預約：[https://forms.gle/Nk3Z2xXsAXHZbUNX9](https://forms.gle/Nk3Z2xXsAXHZbUNX9)
-{% endhint %}
+{% page-ref page="tutorial/login.md" %}
 
-### 我是學生👨‍🎓 `僅限三民高中`
+### 我是學生👨‍🎓👩‍🎓
 
-如果有興趣參與「以學生角色進行」內測的同學（老師也可以），請使用學校帳號直接加入這個 Classroom。
-
-加入 Classroom 的邀請連結如下。  
-相關體驗操作請詳閱下方的「學生登入簽到」使用教學。
-
-{% hint style="success" %}
-加入 Classroom：[https://cscin.tk/smbeta](https://cscin.tk/smbeta)
-{% endhint %}
+學生只需要點擊老師張貼在 Classroom 的簽到連結，即可完成當節課出席紀錄。  
+相關操作請詳閱下方的「學生登入簽到」使用教學。
 
 {% page-ref page="tutorial/checkin.md" %}
 
@@ -73,4 +66,6 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 {% page-ref page="tos.md" %}
 
 {% page-ref page="dev/contact.md" %}
+
+
 
