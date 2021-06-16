@@ -31,7 +31,7 @@
 
 > 補充：如何產生簽到連結？
 
-{% page-ref page="login.md" %}
+{% page-ref page="generate.md" %}
 
 
 ## 所有步驟總整理
