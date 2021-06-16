@@ -1,7 +1,7 @@
 # 常見問答
 
-{% hint style="info" %}
-此頁面建立中
+{% hint style="warning" %}
+此頁面陸續更新中
 {% endhint %}
 
 ## 系統操作相關

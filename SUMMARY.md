@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首頁](README.md)
-* [正式點名](join.md)
+* [正式開放](join.md)
 * [常見問答](qa.md)
 
 ## 使用教學 <a id="tutorial"></a>
