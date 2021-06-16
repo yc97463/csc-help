@@ -4,7 +4,9 @@
 
 進入 [CSC簽到系統](https://cscin.tk) \([https://cscin.tk](https://cscin.tk)\) 後，請選擇已授權的學校或單位帳號，並進行登入。
 
-![](https://i.imgur.com/1RNOdBN.png)
+> 若您所屬不在列表上，請選點選最下方的「Google 個人或其他帳戶」。
+
+![](https://i.imgur.com/6Vq2kBr.png)
 
 ## 二、登入學校 Google 帳號
 
