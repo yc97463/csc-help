@@ -20,7 +20,7 @@
 * [開發團隊](dev/team.md)
 * [更新紀錄](dev/logs.md)
 * [聯絡我們](dev/contact.md)
-* [提供開發資金](dev/sponsor.md)
+* [提供開發與維護資金](dev/sponsor.md)
 
 ---
 
