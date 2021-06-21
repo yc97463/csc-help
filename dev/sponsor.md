@@ -24,3 +24,7 @@
 Paypal：[https://cscin.tk/paypal](https://cscin.tk/paypal)
 {% endhint %}
 
+## 相關頁面
+
+{% page-ref page="contact.md" %}
+
