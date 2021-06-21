@@ -2,6 +2,7 @@
 
 * [首頁](README.md)
 * [正式開放](join.md)
+* [進入系統](https://cscin.tk)
 * [常見問答](qa.md)
 
 ## 使用教學 <a id="tutorial"></a>
