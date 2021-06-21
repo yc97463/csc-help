@@ -4,6 +4,10 @@ description: CSC點名系統到底是什麼啊⋯⋯？好像聽起來很厲害�
 
 # 正式開放
 
+{% hint style="info" %}
+點此進入 [CSC簽到系統](https://cscin.tk) \([https://cscin.tk](https://cscin.tk)\)
+{% endhint %}
+
 ## 簡介
 
 在開始遠距教學後，「點名」是否已成為老師們每節課的惡夢呢？  
