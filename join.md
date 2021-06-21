@@ -53,6 +53,10 @@ CSC簽到系統已於 6/17 開放給所有人使用。
 
 {% embed url="https://youtu.be/I-7B6X8OiKg" caption="記得開CC字幕喔" %}
 
+{% embed url="https://www.youtube.com/embed/d1dgqO222Y8?cc\_lang\_pref=tw&cc\_load\_policy=1" %}
+
+
+
 ### 我是老師👨‍🏫👩‍🏫
 
 登入 CSC簽到系統，就可以開始使用！  
