@@ -16,3 +16,11 @@
 | :--- | :--- | :--- |
 |  |  |  |
 
+## 贊助管道
+
+目前提供 Paypal 線上支付您的贊助款。
+
+{% hint style="info" %}
+Paypal：[https://cscin.tk/paypal](https://cscin.tk/paypal)
+{% endhint %}
+
