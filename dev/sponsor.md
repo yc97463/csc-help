@@ -9,6 +9,7 @@
 | 項目名稱 | 租期 | 支出 |
 | :--- | :--- | :--- |
 | Google 機房 | 3個月 | 試用期免費 |
+| Vercel 服務 | 未定 | 未定 |
 
 ## 贊助者名單
 
@@ -18,10 +19,10 @@
 
 ## 贊助管道
 
-目前提供 Paypal 線上支付您的贊助款。
+目前提供 PayPal 線上支付您的贊助款。
 
 {% hint style="info" %}
-Paypal：[https://cscin.tk/paypal](https://cscin.tk/paypal)
+PayPal：<https://cscin.tk/paypal>
 {% endhint %}
 
 ## 相關頁面
