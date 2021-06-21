@@ -51,11 +51,7 @@ CSC簽到系統已於 6/17 開放給所有人使用。
 
 記得開CC字幕喔
 
-{% embed url="https://youtu.be/I-7B6X8OiKg" caption="記得開CC字幕喔" %}
-
-{% embed url="https://www.youtube.com/embed/d1dgqO222Y8?cc\_lang\_pref=tw&cc\_load\_policy=1" %}
-
-
+{% embed url="https://www.youtube.com/embed/I-7B6X8OiKg?cc\_lang\_pref=tw&cc\_load\_policy=1" caption="記得開CC字幕喔" %}
 
 ### 我是老師👨‍🏫👩‍🏫
 
