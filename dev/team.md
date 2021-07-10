@@ -16,7 +16,7 @@
 * [Github BE Repo](https://github.com/smhs-os-project/cscheckin-be)
 * 三民高中－黃猷珵\(You-Cheng Huang\)
   * [@yc97463](https://github.com/yc97463)
-  * [yc.yc97463@gmail.com](mailto:yc.yc97463@gmail.com)
+  * [hi@imych.one](mailto:hi@imych.one)
 * 鳳山高中－陳思惟\(Sz-Wei Chen\)
   * [@swchen1217](https://github.com/swchen1217)
   * [swchen1217@gmail.com](mailto:swchen1217@gmail.com)
