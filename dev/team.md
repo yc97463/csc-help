@@ -4,6 +4,8 @@
 
 我們是一群高中生，在疫情下遠距教學中，看到老師東奔西跑地找工具，卻找不到一個穩定、便利的平台，而我們希望能透過開發出好用的工具，讓老師及同學更專注於課堂中。
 
+> 聯絡及詢問事宜歡迎來信至：`cscheckin [at] @googlegroups.com`
+
 ## FE 前端
 
 * [Github FE Repo](https://github.com/smhs-os-project/cscheckin-fe)
