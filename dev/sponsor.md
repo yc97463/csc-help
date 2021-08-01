@@ -24,7 +24,7 @@
 目前提供 PayPal 線上支付您的贊助款。
 
 {% hint style="info" %}
-PayPal：<https://cscin.tk/paypal>
+PayPal：[https://cscin.tk/paypal](https://cscin.tk/paypal)
 {% endhint %}
 
 ## 相關頁面

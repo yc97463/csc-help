@@ -22,6 +22,7 @@
 * [更新紀錄](dev/logs.md)
 * [聯絡我們](dev/contact.md)
 * [提供開發與維護資金](dev/sponsor.md)
+* [服務狀態](dev/status.md)
 
 ---
 
