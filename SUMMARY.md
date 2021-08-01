@@ -4,6 +4,7 @@
 * [正式開放](join.md)
 * [進入系統](https://cscin.tk)
 * [常見問答](qa.md)
+* [服務狀態](https://status.csc.deershark.com)
 
 ## 使用教學 <a id="tutorial"></a>
 
@@ -22,7 +23,6 @@
 * [更新紀錄](dev/logs.md)
 * [聯絡我們](dev/contact.md)
 * [提供開發與維護資金](dev/sponsor.md)
-* [服務狀態](dev/status.md)
 
 ---
 
