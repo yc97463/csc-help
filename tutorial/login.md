@@ -2,7 +2,7 @@
 
 ## 一、進入 CSC 簽到系統
 
-進入 [CSC簽到系統](https://cscin.tk) \([https://cscin.tk](https://cscin.tk)\) 後，請選擇已授權的學校或單位帳號，並進行登入。
+進入 [CSC簽到系統](https://dstw.dev/csc) \([https://dstw.dev/csc](https://dstw.dev/csc)\) 後，請選擇已授權的學校或單位帳號，並進行登入。
 
 > 若您所屬學校或單位不在列表上，請選點選最下方的「Google 個人或其他帳戶」。
 

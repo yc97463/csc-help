@@ -2,7 +2,7 @@
 
 * [首頁](README.md)
 * [正式開放](join.md)
-* [進入系統](https://cscin.tk)
+* [進入系統](https://dstw.dev/csc)
 * [常見問答](qa.md)
 * [服務狀態](https://status.csc.deershark.com)
 
